@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi I'm Mahfuz Ahmed</h1>
 
-<!--
-**mahfuz-ahmed/mahfuz-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm front-end web developer. My passion learning new technologies and developing my skills.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Node.Js
-- 💬 Ask me about JavaScrept,React
+- 🌱 I’m currently learning <b> More about React.Js, Node.Js </b>
+- 🤔 I’m looking for help with <b>Node.Js </b>
+- 💬 Ask me about <b>JavaScrept,React.Js </b>
 - 📫 How to reach me: mahfuz9432@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2>Find me </h2>
+
+Linkedin Profile: https://www.linkedin.com/in/the-mahfuz-ahmed/
