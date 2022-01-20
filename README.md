@@ -1,6 +1,6 @@
 <h1><p align="left">Hi I'm Mahfuz Ahmed <img src="https://komarev.com/ghpvc/?username=mahfuz-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz-ahmed" /> </p></h1>
 
-I'm front-end web developer. My passion learning new technologies and developing my skills.
+I'm a front-end web developer. My passion is learning new technologies and developing my skills.
 
 - 🌱 I’m currently learning <b> React.Js, Node.Js </b>
 - 🤔 I’m looking for help with <b>Node.Js </b>
