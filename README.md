@@ -2,9 +2,9 @@
 
 I'm a front-end web developer. My passion is learning new technologies and developing my skills.
 
-- 🌱 I’m currently learning <b> React.Js, Node.Js </b>
+- 🌱 I’m currently learning <b> Asp.Net Core</b>
 - 🤔 I’m looking for help with <b>Node.Js </b>
-- 💬 Ask me about <b>JavaScrept,React.Js </b>
+- 💬 Ask me about <b>Asp.Net Mvc,JavaScrept,React.Js </b>
 - 📫 How to reach me: <a href="">mahfuz9432@gmail.com</a>
 
 
