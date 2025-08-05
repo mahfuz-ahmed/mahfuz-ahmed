@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=mahfuz-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-Passionate **Software Engineer** with **2+ years of experience** delivering robust and maintainable web solutions using **Angular** on the frontend and **ASP.NET Core** on the backend.
+A **Software Engineer** with more than **2 years of experience** in designing and developing modern, high-performance web applications using **Angular** and **ASP.NET Core**.
 
 ---
 
